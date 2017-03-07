@@ -19,7 +19,7 @@ html {
 
 .error-message-highlighted {
   background-color: #c33;
-  color: #c33;
+  color: #fff;
 }
 
 .is-validated > .error-message:first-child,
